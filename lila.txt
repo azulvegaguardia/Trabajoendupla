@@ -1,2 +1,7 @@
+
 no la dejes ir no la dejes ir, porque te lo digo yo, quien es? violeta
+<<<<<<< HEAD
 que se lleva mi corazon
+=======
+que se va sin decir adiosssss
+>>>>>>> 9e76057357a6fe986e0776af1697dafad057f8ab
